@@ -2,15 +2,17 @@ package main
 
 import (
 	"io/ioutil"
-	"log"
 	"path/filepath"
 	"time"
+
+	log "github.com/p9c/logi"
 
 	"github.com/davecgh/go-spew/spew"
 
 	"github.com/p9c/pod/app/appdata"
-	rpcclient "github.com/p9c/rpc/client"
 	"github.com/p9c/util"
+
+	rpcclient "github.com/p9c/rpc/client"
 )
 
 func main() {

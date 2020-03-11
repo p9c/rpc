@@ -1,7 +1,7 @@
 package main
 
 import (
-	"log"
+	log "github.com/p9c/logi"
 
 	rpcclient "github.com/p9c/rpc/client"
 )
