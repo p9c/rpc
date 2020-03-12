@@ -93,6 +93,8 @@ github.com/p9c/forkhash v0.0.1 h1:dg3lW5zMOP07SaJ/4dMBTy6xtGQ8mmZafk0B1X9kw28=
 github.com/p9c/forkhash v0.0.1/go.mod h1:+Wzl4ibnwGlUNaVjAIyiz7zMYAeFcsnzbP7izMDuMm8=
 github.com/p9c/forkhash v0.0.5 h1:fBJs/gQFKW7jR6/gQj/LNeqLSBonR5uOaUtumKXWBU4=
 github.com/p9c/forkhash v0.0.5/go.mod h1:/KeNqH7R/7hgzVYPLk6Ju0z1N536vz6Y9JPMJ5tBIp0=
+github.com/p9c/forkhash v0.0.7 h1:/v3R6Akvn7wzkJ5tF/Ihh9Etq8y2ZJwCjzKiBkk2ryY=
+github.com/p9c/forkhash v0.0.7/go.mod h1:Rfjbi4CkHl77t2rmsiqD71nRlQMeArDzpSAYzbE/fk4=
 github.com/p9c/gcm v0.0.1/go.mod h1:eSowMqIUJc8ddaZLumu4npH9vtY2VfH2Nt95FGj6G3U=
 github.com/p9c/gel v0.0.2/go.mod h1:XrSaE/yNCdnkxUKTkcFXgo00A2SnhfmIOFhJsLhRDFg=
 github.com/p9c/gelook v0.0.0-20200311045057-0f256a5503f5/go.mod h1:JhzyuHiIyF/BI3/zJTk0GJleNw6+7ZV5Cl24P4Z0wWo=
@@ -161,6 +163,8 @@ github.com/p9c/wire v0.0.1/go.mod h1:h4hrfEay5AqZinex9Os1pSRuR3yT1TWAU7+Mq3uM8hI
 github.com/p9c/wire v0.0.2/go.mod h1:ausnf5hCQUfdILFQsnWNWIYln4WlV9WzsRyBjraFNRY=
 github.com/p9c/wire v0.0.3 h1:G+1Rt5GDWo60ZBLyTUoeSevBatkfa1WL2KMx6qIS4rE=
 github.com/p9c/wire v0.0.3/go.mod h1:2+oisWYtyW2wOqxesm1O3YwKLZGsbAqh5YVDzLxLDQ8=
+github.com/p9c/wire v0.0.4 h1:7cuFK9TG1Penbqu5EW4QMxif76QZeemCf6WCPPSwR5s=
+github.com/p9c/wire v0.0.4/go.mod h1:bFgr6hYEIczGxL1USniN+CyAEoNIDdW5ZeNpP4XH8ws=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/programmer10110/gostreebog v0.0.0-20170704145444-a3e1d28291b2 h1:gb6u48DzkRwDpNtqaQ+SQYNJ8G3epwf9uJHxtKXKHec=

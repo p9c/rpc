@@ -13,6 +13,6 @@ require (
 	github.com/p9c/pod v0.2.22
 	github.com/p9c/util v0.0.10
 	github.com/p9c/wallet v0.0.6
-	github.com/p9c/wire v0.0.3
+	github.com/p9c/wire v0.0.4
 	github.com/urfave/cli v1.22.3
 )
