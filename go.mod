@@ -6,13 +6,13 @@ require (
 	github.com/btcsuite/go-socks v0.0.0-20170105172521-4720035b7bfd
 	github.com/btcsuite/websocket v0.0.0-20150119174127-31079b680792
 	github.com/davecgh/go-spew v1.1.1
-	github.com/p9c/chain v0.0.9
-	github.com/p9c/chaincfg v0.0.2
-	github.com/p9c/chainhash v0.0.1
+	github.com/p9c/chain v0.0.10
+	github.com/p9c/chaincfg v0.0.4
+	github.com/p9c/chainhash v0.0.2
 	github.com/p9c/logi v0.0.13
-	github.com/p9c/pod v0.2.21
-	github.com/p9c/util v0.0.8
-	github.com/p9c/wallet v0.0.5
-	github.com/p9c/wire v0.0.1
+	github.com/p9c/pod v0.2.22
+	github.com/p9c/util v0.0.10
+	github.com/p9c/wallet v0.0.6
+	github.com/p9c/wire v0.0.3
 	github.com/urfave/cli v1.22.3
 )
